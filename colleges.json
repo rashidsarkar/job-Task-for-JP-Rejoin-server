@@ -1,0 +1,128 @@
+[
+    {
+        "college_image": "https://example.com/college1.jpg",
+        "college_name": "ABC College",
+        "college_rating": 4.5,
+        "admission_date": "2023-09-01",
+        "research_count": 120,
+        "events": [
+            "Annual Fest",
+            "Sports Meet",
+            "Tech Symposium"
+        ],
+        "research_history": [
+            "Nobel Laureates",
+            "Breakthrough Discoveries"
+        ],
+        "sports": [
+            "Football",
+            "Basketball",
+            "Cricket"
+        ]
+    },
+    {
+        "college_image": "https://example.com/college2.jpg",
+        "college_name": "XYZ University",
+        "college_rating": 4.2,
+        "admission_date": "2023-08-15",
+        "research_count": 80,
+        "events": [
+            "Cultural Fest",
+            "Debate Competition",
+            "Science Expo"
+        ],
+        "research_history": [
+            "Patents Filed",
+            "Publications"
+        ],
+        "sports": [
+            "Tennis",
+            "Swimming",
+            "Volleyball"
+        ]
+    },
+    {
+        "college_image": "https://example.com/college3.jpg",
+        "college_name": "PQR Institute",
+        "college_rating": 3.8,
+        "admission_date": "2023-09-20",
+        "research_count": 60,
+        "events": [
+            "College Day",
+            "Literary Fest",
+            "Hackathon"
+        ],
+        "research_history": [
+            "Research Grants",
+            "Collaborations"
+        ],
+        "sports": [
+            "Badminton",
+            "Athletics",
+            "Chess"
+        ]
+    },
+    {
+        "college_image": "https://example.com/college4.jpg",
+        "college_name": "LMN College",
+        "college_rating": 4.0,
+        "admission_date": "2023-08-30",
+        "research_count": 90,
+        "events": [
+            "Music Festival",
+            "Art Exhibition",
+            "Career Fair"
+        ],
+        "research_history": [
+            "Innovations",
+            "Public Policy Impact"
+        ],
+        "sports": [
+            "Table Tennis",
+            "Rugby",
+            "Hockey"
+        ]
+    },
+    {
+        "college_image": "https://example.com/college5.jpg",
+        "college_name": "EFG University",
+        "college_rating": 4.7,
+        "admission_date": "2023-09-05",
+        "research_count": 150,
+        "events": [
+            "Science Conference",
+            "Dance Competition",
+            "Entrepreneurship Summit"
+        ],
+        "research_history": [
+            "Scientific Breakthroughs",
+            "Global Collaborations"
+        ],
+        "sports": [
+            "Golf",
+            "Soccer",
+            "Swimming"
+        ]
+    },
+    {
+        "college_image": "https://example.com/college6.jpg",
+        "college_name": "JKL Institute",
+        "college_rating": 3.5,
+        "admission_date": "2023-08-25",
+        "research_count": 50,
+        "events": [
+            "Literary Symposium",
+            "Coding Competition",
+            "Cultural Week"
+        ],
+        "research_history": [
+            "Publications",
+            "Community Engagements"
+        ],
+        "sports": [
+            "Kabaddi",
+            "Handball",
+            "Wrestling"
+        ]
+    }
+]
